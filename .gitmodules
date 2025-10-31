@@ -1,0 +1,3 @@
+[submodule "Precision-RL-verl"]
+	path = Precision-RL-verl
+	url = git@github.com:sail-sg/Precision-RL-verl.git
