@@ -36,7 +36,9 @@ Find related code in `oat` folder.
 
 ### VeRL
 
-Find related code in `Precision-RL-verl` folder.
+**We provide a [minimal patch](verl_fp16.patch) for VeRL to enable FP16 training.**
+
+Find related code in `Precision-RL-verl` folder to reproduce our experiments.
 
 ### Data
 The sanity test dataset for [`DeepSeek-R1-Distill-Qwen-1.5B`](https://huggingface.co/deepseek-ai/DeepSeek-R1-Distill-Qwen-1.5B) is included in [`this folder`](https://github.com/sail-sg/Precision-RL-verl/tree/main/sanity_test). The data processing script will be released soon.
