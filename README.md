@@ -9,6 +9,12 @@
 
 </div>
 
+## Updates
+
+* 14/11/2025: 🎉 VeRL has supported FP16 training for both [FSDP](https://github.com/volcengine/verl/pull/4036) and [Megatron](https://github.com/volcengine/verl/pull/4086) (dense model only). The native FP16 support of MoE in Megatron is [on the way](https://github.com/nvidia/megatron-lm/issues/2102).
+* 31/10/2025: FP16 training has been supported by [Oat](https://github.com/sail-sg/oat), a highly modular, research-friendly and efficient LLM RL framework.
+
+
 ## Overview
 
 ![](figures/bf16_vs_fp16_training.png)
