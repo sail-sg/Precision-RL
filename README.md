@@ -40,8 +40,10 @@ Find related code in `oat` folder.
 
 Find related code in `Precision-RL-verl` folder to reproduce our experiments.
 
-### Data
-The sanity test dataset for [`DeepSeek-R1-Distill-Qwen-1.5B`](https://huggingface.co/deepseek-ai/DeepSeek-R1-Distill-Qwen-1.5B) is included in [`this folder`](https://github.com/sail-sg/Precision-RL-verl/tree/main/sanity_test). The data processing script will be released soon.
+### Sanity-Test Data
+The sanity test dataset for [`DeepSeek-R1-Distill-Qwen-1.5B`](https://huggingface.co/deepseek-ai/DeepSeek-R1-Distill-Qwen-1.5B) can be viewed and downloaded from huggingface: [sail/Sanity-Test-R1D-1.5B](https://huggingface.co/datasets/sail/Sanity-Test-R1D-1.5B).
+
+They are also included in [`this folder`](https://github.com/sail-sg/Precision-RL-verl/tree/main/sanity_test).
 
 
 ## Citation
